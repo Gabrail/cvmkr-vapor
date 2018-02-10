@@ -1,0 +1,35 @@
+/***************************************************** Start Our Framework **/
+
+/***************************************************** Start Our-Team *****/ 
+header{padding: 10px;
+    background: #222;
+    color: #f1efef;
+margin-bottom: 30px}
+h2{margin: 10px;}
+h3{color:#5a5a5a}
+
+.lead{
+		font-size: 15px;
+    color: #888787;
+}
+.content{
+	padding: 10px 10px;
+	background: #f1eded;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+
+label{
+	color:#7b7b7b
+}
+
+.gj-editor-md {
+
+	background-color: white !important;
+}
+
+.editor {
+
+	background-color: white !important;
+}
